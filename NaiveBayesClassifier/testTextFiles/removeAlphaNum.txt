@@ -1,0 +1,1 @@
+This is a test  txt file used to test for the StringProcessor methods for JUnit testing  It will have alpha numerics                       New lines  And of course it will be not awesome  It will be great 

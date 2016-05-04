@@ -1,0 +1,2 @@
+This is a test .txt file used to test for the StringProcessor methods for JUnit testing. It will have alpha numerics: !@#$%^&*()1234567890
+New lines! And of course it will be not_awesome. It will be great.
